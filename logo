@@ -31,7 +31,12 @@ footer{padding:22px 7%;display:flex;justify-content:space-between;gap:15px;flex-
 </head>
 <body>
 <header>
-  <div class="logo">🌱 foodolax <span>HYDRO FARMING</span></div>
+  <div class="logo">🌱 foodolax <div class="logo">
+  <img
+    src="WhatsApp Image 2026-09-13 at 6.48.06 PM.jpeg"
+    alt="Foodolax Hydro Farming logo"
+  >
+</div>
   <nav>
     <a href="#about">About</a><a href="#products">Vegetables</a><a href="#why">Why us</a><a href="#contact">Contact</a>
   </nav>
